@@ -1,2 +1,2 @@
-def fun():
-    pass
+def fun(x):
+    return x
